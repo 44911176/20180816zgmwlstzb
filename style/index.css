@@ -1,0 +1,158 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.page_head{
+  width: 100%;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+}
+.head_img{
+  width: 100%;
+  min-width: 1000px;
+  margin: 0 auto;
+}
+.page_content{
+  width: 1000px;
+  margin: 0 auto;
+  clear: both;
+  position: relative;
+  top: -25px;
+}
+.page_content .share {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: right;
+  font-size: 13px;
+  line-height: 30px;
+}
+.page_content .share div {
+  display: inline;
+}
+.page_content .share .bdsharebuttonbox {
+  float: right;
+  padding-left: 10px;
+}
+.page_content .title_img{
+  margin: 5px 0px 15px 0px;
+}
+.list-content{
+  clear: both;
+  overflow:hidden;
+  margin-bottom: 45px;
+}
+.news-img{
+  width: 195px;
+  height:110px;
+}
+.clear{
+  padding: 0px;
+  margin: 0px;
+}
+.clear li{
+  list-style: none;
+  padding: 0px 3px 0px 2px;
+  margin: 0px 0px 20px 0px;
+  float: left;
+  width: 195px;
+}
+.clear li a{
+  text-decoration: none;
+  font-size: 15px;
+  color: #000000;
+  line-height: 24px;
+}
+.iplay {
+  position: absolute;
+  margin-left:11px;
+  margin-top: -46px;
+  z-index: 99;
+}
+.main-title {
+  font-size: 15px;
+  line-height: 24px;
+  height: 53px;
+}
+.main-title p{
+  margin: 0px;
+  padding: 0px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:3;
+}
+.copyright{
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: 35px;
+  padding: 0px;
+  color: #000;
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 24px;
+}
+.copyright a{
+  color: #000;
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 24px;
+}
+
+.page_detail_content{
+  width: 1000px;
+  margin: 0 auto;
+  clear: both;
+  color:#000000;
+}
+.page_detail_thumb{
+  font-size: 15px;
+}
+.page_detail_thumb a{
+  font-size: 15px;
+  color:#000000;
+  text-decoration: none;
+}
+.page_detail_title{
+  font-size: 20px;
+  font-weight:bold;
+  text-align: center;
+  margin:5px 0px 15px 0px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
+.page_detail_content .share {
+  width: 1000px;
+  text-align: right;
+  font-size: 13px;
+  line-height: 30px;
+}
+.page_detail_content .share div {
+  display: inline;
+}
+.page_detail_content .share .bdsharebuttonbox {
+  float: right;
+  padding-left: 10px;
+  margin-right: 300px;
+}
+.page_detail_content .title_img{
+  margin: 5px 0px 15px 0px;
+}
+.page_detail_shipin{
+  height:563px;
+  width:1000px;
+  background-color: #000000;
+  margin-top: 20px;
+  overflow: hidden;
+}
+.page_detail_shipin video{
+  height:563px;
+  width:1000px;
+}
+.from a{
+  text-decoration: none;
+  color: #000000;
+  font-size: 13px;
+}
